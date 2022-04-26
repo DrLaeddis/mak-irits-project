@@ -9,7 +9,14 @@ module.exports = {
       center: true,
       padding: '16px',
     },
-    extend: {},
+    extend: {
+      colors: {
+        primary: '#f2edc3',
+        secondary: '#0020ff',
+        third: '#370511',
+        FtColor: '595959',
+      },
+    },
   },
   plugins: [],
 }

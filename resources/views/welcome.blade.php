@@ -9,9 +9,28 @@
 </head>
 <body>
     
+    <!-- Header Section Start -->
+    <header>
+        <div class="container">
+            <div class="">
+                
+            </div>
+        </div>
+    </header>
+    <!-- Header Section End -->
 
     <!-- Hero Section Start -->
-    
+    <section class="">
+        <div class="container w-full relative p-0 flex flex-wrap">
+            <div class="pt-8 bg-primary">
+                <img src="./image/landingpageimage.jpg" alt="Landing Page Image" class="h-[480px] object-cover object-left">
+            </div>
+
+            <div class="px-8 py-1 bg-third rounded-xl m-auto">
+                <a href="#" class="text-white">Explore Homes</a>
+            </div>
+        </div>
+    </section>
     <!-- Hero Section End -->
 
 </body>
